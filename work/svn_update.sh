@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "SVN UPDATE"
 source ~/Other/shell/config
 
 int=0
