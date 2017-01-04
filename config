@@ -1,2 +1,8 @@
 SVN_PATH[0]="/Users/tzduan/Documents/workDocument/iFinance"
 SVN_PATH[1]="/Users/tzduan/Documents/workDocument/支付"
+API_DOC="~/Documents/workDocument/iFinance/System\ Design/IF_支付_服务接口.xlsx"
+PRD_PATH="/Users/tzduan/Documents/workDocument/支付/进行中项目/无线支付"
+PRD_PATH_1="/需求文档/支付"
+PRD_PATH_2="/index.html"
+VERSION="7.1"
+

@@ -1,0 +1,10 @@
+PAY_LOG_TAG | 2016-12-23 19:22:08.074 | 待签名数据: {"callback_url":"www.baidu.com","deadline":"20161223192201","head":{"comress_type":"1","language":0,"merchant_id":"993148","out_user_id":"M02303462","platform":"Android","request_id":"20161223192208","service_name":"CreateQROrder","time_stamp":"20161223192208","version":"1"},"merchant_url":"www.baidu.com","notify_url":"www.baidu.com","open_id":"UserId20161223192201","out_trade_id":"OutTradeId20161223192201","pay_amount":15.12,"pay_currency":"CNY","pay_type":1,"product_desc":"1234545","product_ids":"36","product_subject":"123","qr_code":"210706000100004308","settlement_id":"0","transaction_id":"TransactionId20161223192201"}
+
+PAY_LOG_TAG | 2016-12-23 19:22:08.112 | CreateQROrder 请求数据: {"callback_url":"www.baidu.com","deadline":"20161223192201","head":{"comress_type":"1","language":0,"merchant_id":"993148","out_user_id":"M02303462","platform":"Android","request_id":"20161223192208","service_name":"CreateQROrder","time_stamp":"20161223192208","version":"1"},"merchant_url":"www.baidu.com","notify_url":"www.baidu.com","open_id":"UserId20161223192201","out_trade_id":"OutTradeId20161223192201","pay_amount":15.12,"pay_currency":"CNY","pay_type":1,"product_desc":"1234545","product_ids":"36","product_subject":"123","qr_code":"210706000100004308","settlement_id":"0","transaction_id":"TransactionId20161223192201","security_type":"RSA","sign":"B5bH9ycUtqY\/nK9GxdRCNue1krgktCSD\/Vq3s+BW4tB8lEZpMKAQAMYGbTOd5OntQHtU\/n24pFOE\ntCsajOHrF6oOfQYBaRc2mkO6wpM8oSBHbn2k3Z5\/e1qpVWiaI\/F9JbAMdaRYH2BMfYTWF2lEe5t2\nsdLrxG6v010bYvvXYLE=\n"}
+
+PAY_LOG_TAG | 2016-12-23 19:22:08.692 | CreateQROrder HttpCode: 200 服务端返回数据: {"res_data":"Xa0SatT2t7Tmt0bwaODvIe+9Rmtg/rOW3/+wkbV5eNUCXZVNDWnCU6yUn6bD2pZ9Mfq3XURD9uu0L0rwjjYlM1ToxBUG/cIelIf5+BEv5Gq9P4GWHQ2cYFVrh9jBCnAgIbrst1V18bHH6oFOaq5T9YensTv3Job0Ms/nE/qPkgQ="}
+
+PAY_LOG_TAG | 2016-12-23 19:22:08.752 | CreateQROrder RSA解密后数据: {"result_code":"1505010","result_message":"网络系统异常，请稍后再试"}
+
+PAY_LOG_TAG | 2016-12-23 19:22:08.754 | 待签名数据: {"result_code":"1505010","result_message":"网络系统异常，请稍后再试"}
+
